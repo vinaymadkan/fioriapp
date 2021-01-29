@@ -1,0 +1,2 @@
+# fioriapp
+Goods Receipt app
